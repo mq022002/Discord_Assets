@@ -14,4 +14,4 @@ To update an asset, replace the existing file with the new one of the same name.
 ## License
 This repository is meant solely for personal use within the context of Xeno Lounge on Discord. Please respect the copyrights and licenses associated with the individual assets, if applicable.
 
-For questions or assistance, feel free to contact me on Discord @gorfbutt
+For questions or assistance, feel free to contact me on Discord, @gorfbutt
