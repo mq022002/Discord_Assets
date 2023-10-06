@@ -6,6 +6,10 @@
     background-color: #990099;
 }
 
+.w-color {
+    background-color: #6699cc;
+}
+
 iframe {
     width: 100%;
     height: 300px;
