@@ -1,4 +1,4 @@
-# XenoLounge_Assets
+# Discord_Assets
 
 This repository contains a compilation of reference assets for use in my Discord Server, Xeno Lounge. It is designed to provide a convenient way to manage and update images and other assets without the need to delete old messages or post new messages in order to maintain a specific order.
 
