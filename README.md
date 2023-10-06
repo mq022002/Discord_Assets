@@ -1,9 +1,9 @@
 # Discord_Assets
 
-This repository contains a compilation of reference assets for use in my Discord Server, Xeno Lounge. It is designed to provide a convenient way to manage and update images and other assets without the need to delete old messages or post new messages in order to maintain a specific order.
+This repository contains a compilation of reference assets for use in my Discord servers. It is designed to provide a convenient way to manage and update images and other assets without the need to delete old messages or post new messages in order to maintain a specific order.
 
 ## Purpose
-The purpose of this repository is to centralize all the images and assets used in Xeno Lounge, making it easier to make updates or changes without disrupting the flow of messages or embedded content. By referencing links to these assets, you can seamlessly swap out images without altering the rest of the content.
+The purpose of this repository is to centralize all the images and assets, making it easier to make updates or changes without disrupting the flow of messages or embedded content. By referencing links to these assets, you can seamlessly swap out images without altering the rest of the content.
 
 ## How to Use
 To use these assets, simply copy the link to the asset you want to use and paste it into your Discord messages or embeds. This allows you to maintain the desired order and presentation while updating the content.
